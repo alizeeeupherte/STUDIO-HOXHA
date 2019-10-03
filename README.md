@@ -7,7 +7,7 @@ Transformation of a 1614 square feet roof terrace  in Paris 75016.
 It was a double objective: not to destroy the existing by taking inspiration from the Haussmann style and to produce a vegetal project.
 
 ![](toiture.png?raw=true)
-_Roof before fitting out
+_Roof before fitting out_
 
 ![](toiture_aménagée.png?raw=true)
 _Roof after development
