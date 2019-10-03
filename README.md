@@ -10,7 +10,7 @@ It was a double objective: not to destroy the existing by taking inspiration fro
 _Roof before fitting out_
 
 ![](toiture_aménagée.png?raw=true)
-_Roof after development
+_Roof after development_
 
 Teamwork with Jae Ho Choi and Guillaume Vuillecard.
 
@@ -22,19 +22,19 @@ I am happy to have been able to participate in all phases of production for this
 With the help of REVIT, I did the preliminary project summary (APS), the final draft (APD) and finally the business consultation file (DCE). The project is currently under construction.
 
 ![](J1.png?raw=true)
-_Existing plan
+_Existing plan_
 
 ![](J2.png?raw=true)
-_New plan
+_New plan_
 
 ![](J3.png?raw=true)
-_Electric plan
+_Electric plan_
 
 ![](J4.png?raw=true) ![](J5.png?raw=true)
-_Evaluations of custom closets for bedrooms
+_Evaluations of custom closets for bedrooms_
 
 ![](J6.png?raw=true)
-_General project 
+_General project_
 
 
 ### Office construction:
@@ -43,25 +43,25 @@ Realization on REVIT of the business consultation file (DCE) for this project of
 
 
 ![](DDDDDI1.png?raw=true)
-_Master plan
+_Master plan_
 
 ![](DDDDDI2.png?raw=true)
-_New DRC plan 
+_New DRC plan_ 
 
 ![](DDDDD3.png?raw=true)
-_New R + 1 plan
+_New R + 1 plan_
 
 ![](DDDDDI4.png?raw=true)
-_RDC electric plan
+_RDC electric plan_
 
 ![](DDDDDI5.png?raw=true)
-_R + 1 electric plan 
+_R + 1 electric plan_
 
 ![](DDDDDI6.png?raw=true)
-_Materials on facades elevations
+_Materials on facades elevations_
 
 ![](DDDDDI7.png?raw=true)
-_General project 
+_General project_ 
 
 This team work also involves Jae Ho Choi and Bastien Grandjean.
 
