@@ -9,7 +9,7 @@ It was a double objective: not to destroy the existing by taking inspiration fro
 ![](toiture.png?raw=true)
 Roof before fitting out
 
-![](toiture_aménagée.png?raw=true)
+![](toiture_aménagée.png?raw=true)
 Roof after development
 
 Teamwork with Jae Ho Choi and Guillaume Vuillecard.
