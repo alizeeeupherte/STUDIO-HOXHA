@@ -7,10 +7,10 @@ Transformation of a 1614 square feet roof terrace  in Paris 75016.
 It was a double objective: not to destroy the existing by taking inspiration from the Haussmann style and to produce a vegetal project.
 
 ![](toiture.png?raw=true)
-Roof before fitting out
+_Roof before fitting out
 
 ![](toiture_aménagée.png?raw=true)
-Roof after development
+_Roof after development
 
 Teamwork with Jae Ho Choi and Guillaume Vuillecard.
 
@@ -22,19 +22,19 @@ I am happy to have been able to participate in all phases of production for this
 With the help of REVIT, I did the preliminary project summary (APS), the final draft (APD) and finally the business consultation file (DCE). The project is currently under construction.
 
 ![](J1.png?raw=true)
-Existing plan
+_Existing plan
 
 ![](J2.png?raw=true)
-New listing plan
+_New plan
 
 ![](J3.png?raw=true)
-Electric plan
+_Electric plan
 
 ![](J4.png?raw=true) ![](J5.png?raw=true)
-Evaluations of custom closets for bedrooms
+_Evaluations of custom closets for bedrooms
 
 ![](J6.png?raw=true)
-General project 
+_General project 
 
 
 ### Office construction:
@@ -43,25 +43,25 @@ Realization on REVIT of the business consultation file (DCE) for this project of
 
 
 ![](DDDDDI1.png?raw=true)
-Master plan
+_Master plan
 
 ![](DDDDDI2.png?raw=true)
-New DRC plan 
+_New DRC plan 
 
 ![](DDDDD3.png?raw=true)
-New R + 1 plan
+_New R + 1 plan
 
 ![](DDDDDI4.png?raw=true)
-RDC electric plan
+_RDC electric plan
 
 ![](DDDDDI5.png?raw=true)
-R + 1 electric plan 
+_R + 1 electric plan 
 
 ![](DDDDDI6.png?raw=true)
-Materials on facades elevations
+_Materials on facades elevations
 
 ![](DDDDDI7.png?raw=true)
-General project 
+_General project 
 
 This team work also involves Jae Ho Choi and Bastien Grandjean.
 
