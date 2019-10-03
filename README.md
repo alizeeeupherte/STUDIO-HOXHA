@@ -15,4 +15,23 @@ Roof after development
 Teamwork with Jae Ho Choi and Guillaume Vuillecard.
 
 
-### Roof terrace:
+### Renovation and restructuring of an apartment:
+
+
+I am happy to have been able to participate in all phases of production for this 1829 square feet apartment in Paris 75007. 
+With the help of REVIT, I did the preliminary project summary (APS), the final draft (APD) and finally the business consultation file (DCE). The project is currently under construction.
+
+![](J1.png?raw=true)
+Existing plan
+
+![](J2.png?raw=true)
+New listing plan
+
+![](J3.png?raw=true)
+Electric plan
+
+![](J4.png?raw=true) ![](J5.png?raw=true)
+Evaluations of custom closets for bedrooms
+
+![](J6.png?raw=true)
+General project 
