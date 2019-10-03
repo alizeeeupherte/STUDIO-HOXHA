@@ -42,25 +42,25 @@ General project
 Realization on REVIT of the business consultation file (DCE) for this project of 3800 square feet. The original shed is destroyed to build an office.
 
 
-![](DDDDD1.png?raw=true)
-Existing plan
+![](DDDDDI1.png?raw=true)
+Master plan
 
-![](DDDDD2.png?raw=true)
-New listing DRC plan 
+![](DDDDDI2.png?raw=true)
+New DRC plan 
 
 ![](DDDDD3.png?raw=true)
-New listing R + 1 plan
+New R + 1 plan
 
-![](DDDDD4.png?raw=true)
+![](DDDDDI4.png?raw=true)
 RDC electric plan
 
-![](DDDDD5.png?raw=true)
+![](DDDDDI5.png?raw=true)
 R + 1 electric plan 
 
-![](DDDDD6.png?raw=true)
-Elevations on facades materials
+![](DDDDDI6.png?raw=true)
+Materials on facades elevations
 
-![](DDDDD7.png?raw=true)
+![](DDDDDI7.png?raw=true)
 General project 
 
 This team work also involves Jae Ho Choi and Bastien Grandjean.
