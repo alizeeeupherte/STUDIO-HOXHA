@@ -37,7 +37,7 @@ Evaluations of custom closets for bedrooms
 General project 
 
 
-Office construction:
+### Office construction:
 
 Realization on REVIT of the business consultation file (DCE) for this project of 3800 square feet. The original shed is destroyed to build an office.
 
@@ -68,7 +68,7 @@ This team work also involves Jae Ho Choi and Bastien Grandjean.
 
 
 
-Moreover:
+### Moreover:
 I am involved in the site supervision of the building and in toutch with all the differents actors on the project. Here is a rehabilitation of building destined to housing of 6243 square feet in Daguerre street Paris 75014.
 
 I participated in the written documents for the delivery  of the building permit of 7965 square feet regarding 8 dwellings in Saint Maur Des Fossés, France. This project allowed me to learn how to fill out official documents for the Registration and Review Center of Administrative Forms in French called « Cerfa », as well as all the other administrative procedures involved.
@@ -78,5 +78,5 @@ Participation in the production of images: elevations, cuts of a fish shop of 10
 
 
 
-#####All projects are supervised by partners Laert Hoxha and Patrick Bertrand - STUDIO HOXHA
+##### All projects are supervised by partners Laert Hoxha and Patrick Bertrand - STUDIO HOXHA
 
